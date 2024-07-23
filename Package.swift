@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "opentelemetry-swift",
+    name: "opentelemetry-swift-api",
     platforms: [
         .iOS(.v12),
         .tvOS(.v12),
